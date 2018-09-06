@@ -42,7 +42,7 @@ order to perform the analysis of the data.
 The package can be installed using the chunk below.
 
 ```{r install, eval=FALSE}
-BiocInstaller::biocLite("condcomp")
+BiocManager::install("condcomp")
 ```
 
 # Using the package
