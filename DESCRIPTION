@@ -1,6 +1,6 @@
 Package: condcomp
 Title: Condition Comparison in scRNA-seq Data
-Version: 1.3.0
+Version: 1.3.1
 Authors@R: person("Diogo", "P. P. Branco",
     email = "diogo.pp.branco@gmail.com", role = c("aut", "cre"))
 Description: For a given clustered data, which can also be split
@@ -29,3 +29,4 @@ Suggests: testthat,
     HSMMSingleCell
 biocViews: ImmunoOncology, Clustering, SingleCell, Visualization
 VignetteBuilder: knitr
+PackageStatus: Deprecated
